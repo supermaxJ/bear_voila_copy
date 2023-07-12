@@ -1,4 +1,4 @@
-python==3.8.6
+Python==3.8.6
 voila
 fastai
 pillow<7
